@@ -7,11 +7,9 @@ Jobsify is a mobile application that helps you find the perfect job for you. It 
 ## 📝 Notes
 
 - for importing api keys, etc in .env we can't import directly like
-
 ```js
 import { API_KEY } from "@env";
 ```
-
 because it's not a built-in module
 
 - Add the "react-native-dotenv" preset to your .babelrc file at the project root like the one added in this project, then you can use the above js code snippet to import your key
