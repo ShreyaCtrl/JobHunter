@@ -1,4 +1,4 @@
-# Jobsify | The perfect Job Finder at your fingertips
+# JobHunter | The perfect Job Finder at your fingertips
 
 ## 👀 Description
 
