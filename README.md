@@ -2,7 +2,7 @@
 
 ## 👀 Description
 
-Jobsify is a mobile application that helps you find the perfect job for you. It is built using React Native and Expo. It uses the Github Jobs API to fetch jobs and display them in a list. You can also search for jobs based on the location and the job title. You can also view the job description and apply for the job.
+JobHunter is a mobile application that helps you find the perfect job for you. It is built using React Native and Expo. It uses the Rapid API JSearch to fetch jobs and display them in a list. You can also search for jobs based on the location and the job title. You can also view the job description and apply for the job.
 
 ## 📝  Manifest: 
 
