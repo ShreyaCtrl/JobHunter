@@ -10,11 +10,11 @@
   },
   "dependencies": {
     "axios": "^1.4.0",
-    "expo": "^48.0.7",
+    "expo": "^49.0.16",
     "expo-constants": "~14.2.1",
     "expo-font": "~11.1.1",
     "expo-linking": "~4.0.1",
-    "expo-router": "^1.2.0",
+    "expo-router": "^2.0.10",
     "expo-splash-screen": "~0.18.1",
     "expo-status-bar": "~1.4.2",
     "react": "18.2.0",
